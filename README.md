@@ -1,15 +1,20 @@
-# Python-FA1-FA2
-Waterbuddy App
+# 💧 WaterBuddy Storyboard
 
-An app that tracks daily water intake levels based on your age.
+A quick look at the storyboard for the WaterBuddy app.
 
-FA1 
-We have to create a storyboard depicting how the app is going to look.
-
-<h2 align="center">💧 WaterBuddy App Storyboard</h2>
-
+<!-- Centered side-by-side images (HTML works in GitHub README) -->
 <p align="center">
-  <img src="images/Screenshot%202025-11-06%20at%203.32.00%20PM.png" width="45%" />
+  <img src="images/storyboard-1.png" width="45%" alt="WaterBuddy storyboard - page 1" />
   &nbsp;&nbsp;
-  <img src="images/Screenshot%202025-11-06%20at%203.34.01%20PM.png" width="45%" />
+  <img src="images/storyboard-2.png" width="45%" alt="WaterBuddy storyboard - page 2" />
 </p>
+
+---
+
+## Storyboard (Large preview)
+
+### Part 1
+![Storyboard Part 1](images/storyboard-1.png)
+
+### Part 2
+![Storyboard Part 2](images/storyboard-2.png)
