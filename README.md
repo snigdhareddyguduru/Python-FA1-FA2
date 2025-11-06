@@ -41,4 +41,7 @@ This project taught me how to think through a problem and build a complete app f
 
 Even though I was completely new to coding, I now understand how programs are structured and how tools like Streamlit make them interactive. This project made me realize how much you can create when you’re willing to learn and experiment.
 
+LINK TO THE APP: https://python-fa1-fa2-9tep7jbq6s8kbacvcrsjtd.streamlit.app/
+
+
 
