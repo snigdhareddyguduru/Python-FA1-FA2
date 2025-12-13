@@ -5,13 +5,15 @@ We had to create this particular app(Watterbuddy), which tracks your daily water
 
 FA1 — Research and Design
 
-For FA1, I worked on the planning and design part of my app called WaterBuddy. I started by researching different water tracking apps to understand what kind of features people usually like. I learned that simple visuals, reminders, and personalized options make these apps more useful.
+For FA1, I worked on the planning and design part of my app called WaterBuddy. I started by researching various water tracking apps to understand the types of features people typically prefer. I learned that simple visuals, reminders, and personalized options make these apps more useful.
 
 I used Canva to create the storyboard for my app. I designed how each screen would look, including a mascot named “Wacker,” who represents the user’s water buddy. I focused on showing how the app tracks water intake, sends reminders, and allows users to set goals. I didn’t write any code during this phase — my main goal was to figure out how everything should work and look.
 
-<img width="706" height="557" alt="Screenshot 2025-11-06 at 3 32 00 PM" src="https://github.com/user-attachments/assets/83dc299f-653d-4be4-9a3a-3b67f568f117" />
+<img width="1024" height="1024" alt="ChatGPT Image Dec 13, 2025, 09_40_29 AM" src="https://github.com/user-attachments/assets/6ee07c34-ad1d-4bb4-bcee-657b2b7d19c5" />
+<img width="1536" height="1024" alt="ChatGPT Image Dec 13, 2025, 09_40_16 AM" src="https://github.com/user-attachments/assets/889bd80e-af34-4c85-844d-39ddcf233a23" />
 
-<img width="706" height="557" alt="Screenshot 2025-11-06 at 3 32 00 PM" src="https://github.com/user-attachments/assets/2dab7df9-796f-4635-97e1-8b47462a9f44" />
+DOCUMENT 
+[AI-Python-FA1-FA2.pdf](https://github.com/user-attachments/files/24139123/AI-Python-FA1-FA2.pdf)
 
 FA2 — Coding and Implementation
 
@@ -43,5 +45,19 @@ Even though I was completely new to coding, I now understand how programs are st
 
 LINK TO THE APP: https://python-fa1-fa2-9tep7jbq6s8kbacvcrsjtd.streamlit.app/
 
+
+CITATIONS 
+
+https://www.who.int/news-room/fact-sheets/detail/drinking-water
+
+https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+
+https://www.ncbi.nlm.nih.gov/books/NBK555956/
+
+https://www.fao.org/nutrition/en/
+
+https://www.hsph.harvard.edu/nutritionsource/water/
+
+https://www.cdc.gov/healthyweight/healthy_eating/water-and-healthier-drinks.html
 
 
